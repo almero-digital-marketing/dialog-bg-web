@@ -1,0 +1,34 @@
+layout: stores.ect
+href: '/kitchens/stores'
+lang: bg
+title: 'Магазини'
+sofia:
+  title: 'Шоурум на Кухни Диалог в София' 
+  navigationTitle: 'Шоурум София'
+  address: 'гр.София, бул. "Цариградско Шосе" 139|ет. 2 (сградата на Office 1 Superstore)'
+  phone: 'телефон: 02 88 40 73 2|моб. телефон: 0879 13 60 20|моб. телефон: 0885 29 18 80'
+  workTime: 'Магазинът е с работно време:|понеделник – петък от 09:30 до 19:00 ч.|събота – от 10:00 до 15:00 ч.'
+  personnel:
+    -
+      name: 'Ангелина Тотолакова' 
+      email: 'totolakova@kuhnidialog.bg'
+      image: '/images/totolakova.jpg'
+    -
+      name: 'Лидия Котова' 
+      email: 'kotova_lidia@kuhnidialog.bg'
+      image: '/images/kuteva.jpg'
+plovdiv:
+  title: 'Шоурум на Кухни Диалог в Пловдив' 
+  navigationTitle: 'Шоурум Пловдив'
+  address: 'гр. Пловдив, бул. "Санкт Петербург" 48|Търговски център АРКАДИЯ'
+  phone: 'телефон: 032 62 58 25'
+  workTime: 'Магазинът е с работно време:|понеделник – петък от 10:00 до 19:00 ч.|събота – от 10:00 до 15:30 ч.'
+  personnel:
+    -
+      name: 'Радосвета Вълкова' 
+      email: 'valkova_r@kuhnidialog.bg|моб. телефон: 0887 43 57 53'
+      image: '/images/valkova.jpg'
+    -
+      name: 'Екатерина Иванова' 
+      email: 'ivanova_e@kuhnidialog.bg|моб. телефон: 0889 24 03 84'
+      image: '/images/ivanova.jpg'
