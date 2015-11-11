@@ -17,6 +17,10 @@ sofia:
       name: 'Лидия Котова' 
       email: 'kotova_lidia@kuhnidialog.bg'
       image: '/images/kuteva.jpg'
+    -
+      name: 'Маноела Бангеева' 
+      email: 'manoela@kuhnidialog.bg'
+      image: '/images/bangeeva.jpg'
 plovdiv:
   title: 'Шоурум на Кухни Диалог в Пловдив' 
   navigationTitle: 'Шоурум Пловдив'
@@ -32,3 +36,7 @@ plovdiv:
       name: 'Екатерина Иванова' 
       email: 'ivanova_e@kuhnidialog.bg|моб. телефон: 0889 24 03 84'
       image: '/images/ivanova.jpg'
+    -
+      name: 'Кристина Богданова' 
+      email: 'bogdanova_k@kuhnidialog.bg|моб. телефон: 0889 24 03 84'
+      image: '/images/bogdanova.jpg'
