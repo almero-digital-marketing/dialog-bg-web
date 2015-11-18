@@ -1,4 +1,4 @@
-layout: conversion.ect
+layout: /conversion.ect
 title: 'Запитване от магазин'
 href: '/kitchens/request-store-send'
 lang: bg

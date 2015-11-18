@@ -1,4 +1,4 @@
-layout: request.ect
+layout: /request.ect
 title: 'Запитване за кухня'
 href: '/kitchens/offer'
 lang: bg

@@ -1,4 +1,4 @@
-layout: conversion.ect
+layout: /conversion.ect
 title: 'Запитване за кухня'
 href: '/kitchens/request-kitchen-send'
 lang: bg

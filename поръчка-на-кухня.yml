@@ -1,4 +1,4 @@
-layout: order.ect
+layout: /order.ect
 href: '/kitchens/kitchen-order'
 lang: bg
 title: 'Поръчка на кухня'
